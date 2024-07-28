@@ -23,3 +23,6 @@ log_dir="/tmp/$date_log"
 
 mkdir -p $log_dir
 echo $message >> "$log_dir/saludos.log"
+
+# Cronjob used:
+# */5 * * * * /home/luis/Escritorio/Semestre-2024/SegundoSemestre/SistemasOperativos/Actividades/actividad2/actividad2.sh LuisduPacheco
