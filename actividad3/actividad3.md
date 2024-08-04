@@ -156,7 +156,7 @@ ls -l /home/usuario1/archivo1.txt
 ls -ld /home/usuario1/directorio1
 ls -l /home/usuario1/directorio1/archivo2.txt
 ```
-![Alt text](./img/verificarPermisos.png)
+![Alt text](./img/verificacionFInal.png)
 
 ___
 
