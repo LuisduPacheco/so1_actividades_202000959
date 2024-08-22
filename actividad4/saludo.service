@@ -1,0 +1,10 @@
+[Unit]
+Description=Saludo y Fecha Actual Service
+After=network.target
+
+[Service]
+ExecStart=/home/luis/Escritorio/Semestre-2024/SegundoSemestre/SistemasOperativos/Actividades/actividad4/saludo.sh
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
