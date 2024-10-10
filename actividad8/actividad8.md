@@ -1,4 +1,4 @@
-# Completely Fair Scheduler
+# Primeros pasos con K8s
 
 ## Nombre: Luis Eduardo De León Pacheco
 
